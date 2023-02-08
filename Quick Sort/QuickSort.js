@@ -1,4 +1,4 @@
-//Sorting without recursion
+//Another way;
 
 function swap(arr, i , j) {
     const temp = arr[i];
